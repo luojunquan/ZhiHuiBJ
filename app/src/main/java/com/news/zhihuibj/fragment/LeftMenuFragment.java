@@ -4,9 +4,7 @@ import android.view.View;
 
 import com.news.zhihuibj.R;
 
-/**
- * Created by ÀµÉÏÂÞÐ¡¼ú on 2016/5/16.
- */
+
 public class LeftMenuFragment extends BaseFragment{
     @Override
     public View initViews() {

@@ -3,9 +3,7 @@ package com.news.zhihuibj.utils;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/**
- * Created by ÀµÉÏÂÞÐ¡¼ú on 2016/5/16.
- */
+
 public class PrefUtils {
     public static final String PREF_NAME = "config";
     public static boolean getBoolean(Context context,String key,boolean defaultValue){
